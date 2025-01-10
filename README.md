@@ -1,6 +1,14 @@
 # python-start
 
+Before we start, please, I know there are a few shortcuts and "not best practices" here.  The goal is 
+simply to get people up and writing a piece of executable code and a test in Python in Visual Studio
+Code.  Thanks.
+
 ## Overview
+
+This is the companion repo to the "Getting Started" located in Confluence at
+[Getting Started with Python and VSCode](https://mypizza.atlassian.net/wiki/spaces/IP1/pages/5501878367/Getting+Started+with+Python+and+VSCode).
+
 I created this as close to the most basic project I could make that would:
 * run in VSCode
 * include source code and a test file
@@ -18,7 +26,7 @@ But, this is a repo to get you up and started in VSCode as soon as possible. In 
 
 ## Try it out.
 
-There are four things that I intended.
+There are four things that I intended. There are more elaborate instructions on the Confluence Page.
 
 In the integrated terminal, try these:
 ```
